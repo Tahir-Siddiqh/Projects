@@ -5,3 +5,4 @@
 * TicTacToe game made in python without graphical interface.
 * Stonks is webapp on stock price webapp made with streamlit in Python.
 * Rock paper scissors game using random lib in python.
+* snp500 is stock prices of s&p500 companies made with streamlit with data visualization.
