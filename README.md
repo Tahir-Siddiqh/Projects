@@ -6,3 +6,4 @@
 * Stonks is webapp on stock price webapp made with streamlit in Python.
 * Rock paper scissors game using random lib in python.
 * snp500 is stock prices of s&p500 companies made with streamlit with data visualization.
+* F1 is bones of statistical WebApp I'm building using streamlit.
