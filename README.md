@@ -7,3 +7,5 @@
 * Rock paper scissors game using random lib in python.
 * snp500 is stock prices of s&p500 companies made with streamlit with data visualization.
 * F1 is bones of statistical WebApp I'm building using streamlit.
+* Loan approval is made with machine learning to predict loan approval process.
+* Big mart sales prediction made to preditc sales figures.
