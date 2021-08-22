@@ -8,4 +8,4 @@
 * snp500 is stock prices of s&p500 companies made with streamlit with data visualization.
 * Loan approval is made with machine learning to predict loan approval process.
 * Big mart sales prediction made to preditc sales figures.
-* Tree Print in Java
+* Printing Tree in Java
